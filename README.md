@@ -15,7 +15,7 @@ Developer:
   Name: Gareth van den Berg
   Roles: [Software Developer, Web Designer, Software Composer]
   Focus: [Machine Learning, Coding with AI, Audio-Visual Tech]
-  Passions: [Music Composition, Creative Coding, Modern Web Apps]
+  Passions: [Creative Coding, Modern Web Apps]
   Contact: garethvdb023@gmail.com
 ```
 
