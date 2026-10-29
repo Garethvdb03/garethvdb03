@@ -1,60 +1,118 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=61AFEF&center=false&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gareth!;Software+Developer;Web+Designer;Software+Composer" alt="Typing SVG" />
+<!-- 🚀 Enhanced GitHub Profile README -->
+<div align="center">
+  
+  <!-- Animated Main Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Digital+Craftsman;Software+Developer;Music+Enthusiast;Software+Composer" alt="Typing animation header" />
+  
+  <br><br>
 
-<p align="left">
-  <a href="mailto:garethvdb023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://paypal.me/garethvdb023"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Garethvdb03&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+  <!-- Secondary Animated Subheader (Replaces GIF) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+space!+%E2%9C%A8;Building+solutions+with+code+%26+sound;Exploring+AI+%26+Machine+Learning" alt="Typing welcome banner" />
 
----
-
-### 🚀 About Me
-
-```yaml
-Developer:
-  Name: Gareth van den Berg
-  Roles: [Software Developer, Web Designer, Software Composer]
-  Focus: [Machine Learning, Coding with AI, Audio-Visual Tech]
-  Passions: [Creative Coding, Modern Web Apps]
-  Contact: garethvdb023@gmail.com
-```
+</div>
 
 ---
 
-### 💻 Tech Stack & Tools
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend & Design** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
-| **Hosting & Cloud** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Workflow & Productivity** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
+<!-- 🔗 Contact & Support Badges -->
+<div align="center">
+  <a href="mailto:garethvdb023@gmail.com"><img src="https://img.shields.io/badge/-garethvdb023%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
+  <a href="https://paypal.me/garethvdb023"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge" /></a>
+</div>
 
 ---
 
-### 📊 GitHub Dashboard
+<!-- 👨‍💻 About Me Section -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Garethvdb03&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Gareth's Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garethvdb03&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garethvdb03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🎵 Creative Corner & Dev Insights
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+<div align="center">
+  <h3>🎯 Current Focus</h3>
+  <p>
+    🚀 <b>Role:</b> Software Developer, Web Designer & Software Composer<br>
+    📚 <b>Learning:</b> Machine Learning & Coding with AI<br>
+    🎵 <b>Interests:</b> Music & Code Enthusiast<br>
+    📫 <b>Contact:</b> <a href="mailto:garethvdb023@gmail.com">garethvdb023@gmail.com</a>
+  </p>
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://paypal.me/garethvdb023" target="_blank">
-    <img src="https://img.shields.io/badge/Support_My_Work-Donate_via_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support My Work via PayPal" />
-  </a>
-</p>
+<!-- 🛠️ Tech Stack -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<div align="center">
+  <h3>Languages & Core</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,markdown" height="48" alt="Languages" />
+  </p>
+  
+  <h3>Styling & Frontend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,canva" height="48" alt="Styling and Design" />
+  </p>
+  
+  <h3>Tools, Cloud & Platforms</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,firebase,notion" height="48" alt="Tools and Cloud" />
+  </p>
+</div>
+
+---
+
+<!-- 📊 GitHub Activity -->
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Garethvdb03&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garethvdb03&theme=dracula&hide_border=false" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garethvdb03&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="80%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- 💡 Inspiration -->
+<h2 align="center">💡 Daily Inspiration</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Quote" />
+</div>
+
+---
+
+<!-- 🏆 Achievements -->
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Garethvdb03&theme=dracula&no-frame=false&no-bg=false&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<!-- 🌟 Footer -->
+<div align="center">
+  
+  <br>
+  
+  <!-- Animated Farewell Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%99%8F;Keep+coding+and+stay+awesome!+%E2%9C%A8" alt="Thank you typing text" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Garethvdb03&style=flat-square&color=blue" alt="Profile Views" />
+
+  <br><br>
+
+  <p><i>Made with ❤️ by Gareth van den Berg</i></p>
+
+</div>
