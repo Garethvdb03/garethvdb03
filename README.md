@@ -4,11 +4,6 @@
   <!-- Animated Main Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Digital+Craftsman;Software+Developer;Music+Enthusiast;Software+Composer" alt="Typing animation header" />
   
-  <br><br>
-
-  <!-- Secondary Animated Subheader (Replaces GIF) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+space!+%E2%9C%A8;Building+solutions+with+code+%26+sound;Exploring+AI+%26+Machine+Learning" alt="Typing welcome banner" />
-
 </div>
 
 ---
